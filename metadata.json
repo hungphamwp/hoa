@@ -1,0 +1,8 @@
+{
+  "name": "Tiệm Hoa Đẹp",
+  "description": "Website bán hoa trực tuyến với thiết kế thanh lịch và hiện đại.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
